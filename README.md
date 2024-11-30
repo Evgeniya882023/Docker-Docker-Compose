@@ -1,4 +1,6 @@
 
+![Preentscreen to Docker](https://github.com/user-attachments/assets/d8dbde8a-ee7d-4825-9458-385b882d60f7)
+
 # Домашнее задание к занятию «3.1. Docker»
 
 **Важно**: прежде чем приступать, обязательно прочитайте [руководство по установке Docker](./installation.md).
